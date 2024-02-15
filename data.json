@@ -1,8 +1,38 @@
 [
     {
-        "name": "Foods",
-        "description": "Makaon",
-        "price": 10.55,
-        "date-added": "Feb. 6 2024"
-    }
+        "name": "Boy Bawang",
+        "description": "Espicy",
+        "price": 30.00,
+        "date-added": "Feb. 15 2024"
+   },
+   {
+        "name": "NOVA",
+        "description": "Cheezzy",
+        "price": 20.00,
+        "date-added": "Feb. 15 2024"
+   },
+   {
+        "name": "Takis",
+        "description": "Takesy",
+        "price": 50.00,
+        "date-added": "Feb. 15 2024"
+   },
+   {
+        "name": "Doritos",
+        "description": "Yummy",
+        "price": 90.00,
+        "date-added": "Feb. 15 2024"
+   },
+   {
+        "name": "Pringles",
+        "description": "Sour",
+        "price": 100.00,
+        "date-added": "Feb. 15 2024"
+   },
+   {
+        "name": "Chippy",
+        "description": "Sweet and Spicy",
+        "price": 15.00,
+        "date-added": "Feb. 15 2024"
+   }
 ]
